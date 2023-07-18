@@ -1,0 +1,3 @@
+const CONTRACT_ADDRESS = "0x49e5eb809C9276B53918Fab567ce832A5705cdc1";
+
+module.exports = { CONTRACT_ADDRESS };
