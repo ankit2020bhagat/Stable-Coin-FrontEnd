@@ -251,7 +251,7 @@ function App() {
               ETH/USD
             </button>
           </header>
-          <h2>ETH/USG {ethPerUsd}</h2>
+          <h2>ETH/USD {ethPerUsd}</h2>
         </div>
         {!currentAccount && renderNotConnectedContainer()}
         {/* Render the input form if an account is connected */}
